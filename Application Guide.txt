@@ -1,0 +1,11 @@
+DESKTOP APP STORAGE AND INVENTORY SYSTEM IN PYTHON TKINTER 
+FOR DB USE SQLITE
+
+LOGIN DETAILS
+
+Username - amine
+Password - aminesh00
+
+install tkinter
+sqlit3
+csv
